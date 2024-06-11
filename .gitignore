@@ -1,0 +1,10 @@
+#dependencies
+/node_modules
+
+#IDE config files
+.classpath
+.history
+.idea
+.settings
+.vscode
+*.iml
