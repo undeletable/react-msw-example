@@ -1,3 +1,11 @@
-.App {
-  text-align: center;
+.App__buttons {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  justify-content: flex-start;
+}
+
+.App__result {
+  margin-top: 10px;
 }
